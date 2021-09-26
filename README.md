@@ -28,8 +28,8 @@
 <a href="https://github.com/nguyenducde">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenducde&show_icons=true&theme=light&line_height=27" alt="De github stats"/>
 </a>
-<a href="https://github.com/nguyenducde/DoAnCoSo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenducde&repo=DoAnCoSo&theme=light" />
+<a href="https://github.com/nguyenducde/tracking_Covid19">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenducde&repo=tracking_Covid19&theme=light" />
 </a>
 <a href="https://github.com/nguyenducde/StockPriceBoard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenducde&repo=StockPriceBoard&theme=light" />
