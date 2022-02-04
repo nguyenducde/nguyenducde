@@ -2,13 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenducde&label=Views&color=blue&style=plastic" alt="nguyenducde" /> </p>
 
-## I'm a Farmer!!
 
-- 🏡 I came from a poor family, difficult in every way so i must learn 🤣
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to eat fruit...
 
 ### Connect with me:
 
